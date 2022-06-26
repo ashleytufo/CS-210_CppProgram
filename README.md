@@ -19,17 +19,11 @@ The experience gained in debugging and error handling will transfer very well to
 The program is split into multiple classes based on its primary functions. Reading the code is made easier by separating these files and commenting to describe their function. Adapting this code to handle additional Python functions or files would be simple since the PyHandler is only an interface between the program and the .py file. Additionally, the input and output handlers will make it easy to further adapt the program by either reusing functions like reading in the menu choice or with new methods to output different data. Smaller sections of code, separated by function, along with descriptive comments allow for the code to be easily maintained over time.
 
 <!--
-
-What did you do particularly well?
-
-
 Here are some ideas to get you started:
 Summarize the project and what problem it was solving.
-
+What did you do particularly well?
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 What skills from this project will be particularly transferable to other projects or course work?
 How did you make this program maintainable, readable, and adaptable?
-
-
 -->
