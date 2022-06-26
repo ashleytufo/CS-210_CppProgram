@@ -1,0 +1,9 @@
+﻿  InputHandler.cpp
+  main.cpp
+  OutputHandler.cpp
+  PyHandler.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 361 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CornerGrocer.vcxproj -> F:\School\202204_ProgrammingLanguages\4_VS\CS-210_M8-1\CornerGrocer\Release\CornerGrocer.exe
